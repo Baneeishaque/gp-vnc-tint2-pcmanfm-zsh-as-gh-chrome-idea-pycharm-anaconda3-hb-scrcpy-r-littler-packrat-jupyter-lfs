@@ -12,34 +12,15 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gp-vnc-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-hb-scrcpy-r-littler-packrat-jupyter-lfs)
 
-## Tint 2 : 16.7
-## PCMan File Manager : 1.3.1
+### Base Image : [baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gitpod-full-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-as-canary-handbrake-1366x625)  
 
-## ZSH : 5.8
-### &nbsp;&nbsp; - Oh My ZSH : 12669f2
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
+## Additional Tools
+### &nbsp;&nbsp; - scrcpy : 1.12.1
 
-## Android Studio
-### &nbsp;&nbsp; - Android SDK : 30
-### &nbsp;&nbsp; - Stable : 4.1.3
-### &nbsp;&nbsp; - Canary : Arctic Fox (2020.3.1) Canary 14
+### &nbsp;&nbsp; - R : 4.0.5 (2021-03-31)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Littler : 0.3.12
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Packrat : 0.6.0
 
-## Github CLI : 1.8.1
-## Google Chrome : 89.0.4389.128
-## IntelliJ IDEA : 2021.1
-## Pycharm : 2021.1.1
-
-## Anaconda3 : 2020.11
-### &nbsp;&nbsp; - JupyterLab : 3.0.14
-
-## Handbrake : 1.3.3
-## scrcpy : 1.12.1
-
-## R : 4.0.5 (2021-03-31)
-### &nbsp;&nbsp; - Littler : 0.3.12
-### &nbsp;&nbsp; - Packrat : 0.6.0
-
-## Git LFS : 2.13.2
+### &nbsp;&nbsp; - Git LFS : 2.13.2
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gp-vnc-tint2-pcmanfm-zsh-as-gh-chrome-idea-pycharm-anaconda3-hb-scrcpy-r-littler-packrat-jupyter-lfs)"
