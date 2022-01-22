@@ -16,6 +16,6 @@ RUN sudo R -e "install.packages(c('littler', 'docopt'))" \
 
 RUN sudo install2.r --error packrat
 
-RUN jupyter-lab --generate-config
+# RUN jupyter-lab --generate-config
 
-RUN sed -i "s/# c.ServerApp.ip = 'localhost'/c.ServerApp.ip = '0.0.0.0'/g" /home/gitpod/.jupyter/jupyter_lab_config.py
+# RUN sed -i "s/# c.ServerApp.ip = 'localhost'/c.ServerApp.ip = '0.0.0.0'/g" /home/gitpod/.jupyter/jupyter_lab_config.py
